@@ -7,7 +7,7 @@ One of the most important aspects of programming is writing code that is readabl
 
 ## Notes
 
-This homework (like most of them) turned out to be pretty difficult. I had a little trouble writing the promises and using the inquirer package. In the end I was not able to figure out how to make the inquirer loop in the event the user wants to add another team member so now you need to run the node app.js command each time you want to add a new member. I think I could eventually figure it out btu I have already spent a TON of time on this homework and I want to move on since I am pretty behind. on a positive note I did end up learning a lot about inquirer and functions in node.js.
+This homework (like most of them) turned out to be pretty difficult. I had a little trouble writing the promises and using the inquirer package. In the end I was not able to figure out how to make the inquirer loop in the event the user wants to add another team member so now you need to run the node app.js command each time you want to add a new member. I think I could eventually figure it out but I have already spent a TON of time on this homework and I want to move on since I am pretty behind. on a positive note I did end up learning a lot about inquirer and functions in node.js. Also, the app.js file contains my code and I have added a screen recording to the repo as well.
 
 ## Instructions
 
