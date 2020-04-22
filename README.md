@@ -1,12 +1,13 @@
-# Homework-10
-Repo for Homework 10 of UT coding bootcamp
-
 # Unit 10 OOP Homework: Template Engine - Employee Summary
 
 ![Screenshot of the Project](https://github.com/jdstroup10/Homework-10/blob/master/Screen%20Shot%202020-04-21%20at%208.56.48%20PM.png)
 
 One of the most important aspects of programming is writing code that is readable, reliable, and maintainable. Oftentimes, *how* we design our code is just as important as the code itself. In this homework assignment, your challenge is to build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. Since testing is a key piece in making code maintainable, you will also be ensuring that all unit tests pass.
 
+
+## Notes
+
+This homework (like most of them) turned out to be pretty difficult. I had a little trouble writing the promises and using the inquirer package. In the end I was not able to figure out how to make the inquirer loop in the event the user wants to add another team member so now you need to run the node app.js command each time you want to add a new member. I think I could eventually figure it out btu I have already spent a TON of time on this homework and I want to move on since I am pretty behind. on a positive note I did end up learning a lot about inquirer and functions in node.js.
 
 ## Instructions
 
