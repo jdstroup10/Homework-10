@@ -1,0 +1,15 @@
+.jumbotron {
+    background: bisque;
+}
+
+.card-body {
+    background: rgb(206, 221, 241);
+}
+
+.card {
+    margin: 20px;
+}
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJpGjXQQ13oMzi0Zl2KYK3c-oA6jE-I3F35H65YcoEQmKM0gdx&usqp=CAU");
+}
