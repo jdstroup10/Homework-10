@@ -3,7 +3,7 @@ Repo for Homework 10 of UT coding bootcamp
 
 # Unit 10 OOP Homework: Template Engine - Employee Summary
 
-![Screenshot of the Project]()
+![Screenshot of the Project](https://github.com/jdstroup10/Homework-10/blob/master/Screen%20Shot%202020-04-21%20at%208.56.48%20PM.png)
 
 One of the most important aspects of programming is writing code that is readable, reliable, and maintainable. Oftentimes, *how* we design our code is just as important as the code itself. In this homework assignment, your challenge is to build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. Since testing is a key piece in making code maintainable, you will also be ensuring that all unit tests pass.
 
